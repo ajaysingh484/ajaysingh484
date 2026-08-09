@@ -4,13 +4,13 @@
   <img
     src="./image.png"
     alt="Ajay Singh - Senior DevSecOps Engineer"
-    width="80%"
+    width="100%"
   />
 
   <br><br>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=800&color=00C7B7&center=true&vCenter=true&width=600&height=80&lines=Senior+DevSecOps+Engineer+%7C+9%2B+Years+Experience;Azure+Cloud+%7C+Kubernetes+%7C+Terraform+%7C+GitOps;Building+Secure+%26+Highly+Available+Cloud+Platforms;Automate+%7C+Secure+%7C+Observe+%7C+Scale"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=800&color=00C7B7&center=true&vCenter=true&width=300&height=80&lines=Senior+DevSecOps+Engineer+%7C+9%2B+Years+Experience;Azure+Cloud+%7C+Kubernetes+%7C+Terraform+%7C+GitOps;Building+Secure+%26+Highly+Available+Cloud+Platforms;Automate+%7C+Secure+%7C+Observe+%7C+Scale"
     alt="DevOps Typing Animation"
   />
 
