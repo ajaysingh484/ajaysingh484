@@ -1,46 +1,4 @@
 
-<div align="center">
-
-  <img
-    src="./image.png"
-    alt="Ajay Singh - Senior DevSecOps Engineer"
-    width="100%"
-  />
-
-  <br><br>
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=2500&pause=800&color=00C7B7&center=true&vCenter=true&width=300&height=80&lines=Senior+DevSecOps+Engineer+%7C+9%2B+Years+Experience;Azure+Cloud+%7C+Kubernetes+%7C+Terraform+%7C+GitOps;Building+Secure+%26+Highly+Available+Cloud+Platforms;Automate+%7C+Secure+%7C+Observe+%7C+Scale"
-    alt="DevOps Typing Animation"
-  />
-
-  <br><br>
-
-  <a href="https://github.com/ajaysingh484">
-    <img src="https://img.shields.io/badge/GitHub-Ajay%20Singh-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-  <a href="mailto:ajays1268@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=ajaysingh484&label=PROFILE%20VIEWS&color=0078D4&style=for-the-badge">
-
-</div>
-
-<hr>
-
-<h2 align="center">
-  🚀 Senior DevSecOps Engineer
-</h2>
-
-<p align="center">
-  <b>
-    Azure Cloud ☁️ • Kubernetes ☸️ • Terraform 🏗️ • GitOps 🔄 • DevSecOps 🛡️
-  </b>
-</p>
-
-<div align="center">
 
 <!-- ===================== HERO ===================== -->
 
