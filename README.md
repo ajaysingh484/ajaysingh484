@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,2,20,24,30&text=AJAY%20SINGH&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20DevSecOps%20Engineer%20☁️%20Azure%20Cloud%20|%20AKS%20|%20Terraform&descAlignY=62&descSize=22"/>
+<img width="50%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,2,20,24,30&text=AJAY%20SINGH&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20DevSecOps%20Engineer%20☁️%20Azure%20Cloud%20|%20AKS%20|%20Terraform&descAlignY=62&descSize=22"/>
 
 <br>
 
