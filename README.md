@@ -4,7 +4,7 @@
   <img
     src="./image.png"
     alt="Ajay Singh - Senior DevSecOps Engineer"
-    width="100%"
+    width="80%"
   />
 
   <br><br>
